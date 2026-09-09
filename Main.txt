@@ -1,0 +1,11 @@
+class Main{
+
+	static final int main(){
+
+		System.out.println("Начало программы");
+
+		System.out.println("Конец программы");
+
+	}
+
+}
