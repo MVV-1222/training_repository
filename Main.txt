@@ -1,9 +1,11 @@
+import Service.txt
+
 class Main{
 
 	static final int main(){
 
 		System.out.println("Начало программы");
-
+		Service.start();
 		System.out.println("Конец программы");
 
 	}
