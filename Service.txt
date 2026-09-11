@@ -7,3 +7,12 @@ class Service{
 	}
 
 }
+class Service{
+
+	void start(){
+
+		System.out.println("Сервис начал работу")
+
+	}
+
+}

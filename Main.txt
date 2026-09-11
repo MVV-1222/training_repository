@@ -8,3 +8,12 @@ class Main{
 
 }
 
+class Main{
+
+	static final int main(){
+
+		System.out.println("Конец");
+
+	}
+
+}
